@@ -1,3 +1,10 @@
+# React Lab
+## Connecting to APIs - Brief
+Practise what we've learned in the past few days by making a small React app.
+
+Make a drop down box of all of the teams returned by the API, and when selected show a list of the players for that team with their position and shirt number - this will need a second API request on click.
+
+### React details:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
