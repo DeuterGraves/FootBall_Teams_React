@@ -59,7 +59,7 @@ class FootballBox extends React.Component {
       <div>
       <TeamSelect teams = {this.state.teams}
       onTeamSelected={this.handleTeamSelected}/>
-      <TeamName name={this.state.players} />
+      <TeamName data={this.state.players} />
       <PlayerList
       players={this.state.players.squad}/>
       </div>
