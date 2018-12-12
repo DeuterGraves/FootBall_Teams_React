@@ -1,7 +1,25 @@
 
-
 .player-list{
-  /* background-color: green; */
+  /* background-color: green;
+  background-color: pink;*/
   display:grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+@media(min-width: 500px){
+  .player-list{
+    /*display:grid;
+     background-color: purple; */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media(min-width: 1000px){
+  .player-list{
+    /* display: grid;
+    background-color: green; */
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+
 }
