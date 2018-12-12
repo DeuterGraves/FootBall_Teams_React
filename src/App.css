@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url('./images/pitch2.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: bottom;
+  background-attachment: fixed;
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+}

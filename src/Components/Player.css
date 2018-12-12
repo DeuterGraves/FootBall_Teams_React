@@ -1,0 +1,12 @@
+.one-player{
+  background-color: rgba(0,0,0,0.75);
+  border-radius: 8px;
+  max-width: 200px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.player-name{
+  font-weight: bolder;
+}

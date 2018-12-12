@@ -1,0 +1,13 @@
+.team-name{
+  font-size: 2em;
+  font-weight: bolder;
+  text-shadow: 2px 2px #000;
+  /* vertical-align: middle; */
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+/*
+.text{
+
+  transform: translateY(-50%);
+} */
